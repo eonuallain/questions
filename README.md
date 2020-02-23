@@ -10,7 +10,7 @@ How to debug system calls
 <br />https://www.tecmint.com/strace-commands-for-troubleshooting-and-debugging-linux/
 
 Socket states
-<br />
+<br />https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/include/net/tcp_states.h?id=HEAD
 ```
        ESTABLISHED
               The socket has an established connection.
